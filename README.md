@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Deployed on Vercel
-https://eat-n-split-six.vercel.app/
+https://eat-n-split-expenses.vercel.app/
 
 ## Available Scripts
 
